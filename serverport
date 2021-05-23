@@ -1,0 +1,2 @@
+expose 8080
+mkdir var/env/product
