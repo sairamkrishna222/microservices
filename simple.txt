@@ -7,7 +7,8 @@ this is actually present in the master branch so do not change this file unneces
 
 
 
-**************************** added extra lines inthe master so that it will be added before head only ***********
+********************************** this file is inthhe simple-test branch fot the development*******************
 
 
-*********************** this is not a good thing to discuss thing inmaster verification branch**************************
+all this file is for the development******************* for things in the folder which will be given inthe  food chain***************
+
